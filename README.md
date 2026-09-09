@@ -57,4 +57,4 @@ a place to try patterns before they touch production.
 
 ---
 
-📫 andriy3026@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/andrii-voloshchuk/)
+📫 [LinkedIn](https://www.linkedin.com/in/andrii-voloshchuk/)
