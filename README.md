@@ -25,4 +25,4 @@ Grafana / Thanos · Python · Bash · Linux
 - [k8s-gitops-vault-secrets](https://github.com/Andrii30/k8s-gitops-vault-secrets) — HashiCorp Vault + Vault Secrets Operator: a secret in Vault syncs into a native Kubernetes Secret
 - [iot-protocol-advisor](https://github.com/Andrii30/iot-protocol-advisor) — PhD research: an ML pick of the optimal IoT data protocol per device from network metrics
 
-📫 andriy3026@gmail.com
+📫 andriy3026@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/andrii-voloshchuk/)
