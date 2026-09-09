@@ -1,20 +1,28 @@
-### Hi, I'm Andrii
+### Hi, I'm Andrii Voloshchuk
 
-Backend / ML engineer. I build things in Python and run them on Kubernetes.
+**DevOps Engineer** — ~6 years in cloud-native infrastructure, automation and
+observability. Ternopil, Ukraine.
 
-**Right now** — going deep on Kubernetes, Helm and GitOps. A portfolio of small
-Argo CD projects, each its own repo: an observability stack, multi-environment
-promotion, Vault + Secrets Operator, a published Helm chart library.
+**Recently** — Helm charts for AWS EKS, Terraform modules, VictoriaMetrics /
+Prometheus, Knative and GitLab CI at Mono. Before that, four years at SoftServe:
+IaC from scratch for a FedRAMP project, Jenkins pipelines, parallel multi-DC
+releases across hybrid AWS + on-prem.
 
-**Also** — applied ML in Python: protocol / algorithm selection and
-power-consumption pattern analysis with scikit-learn.
+**On the side** — a GitOps learning portfolio: small Argo CD projects, each its
+own repo.
 
-**Stack** — Python · scikit-learn · PostgreSQL · Docker · Kubernetes · Helm · Argo CD · GitHub Actions
+**Certs** — AWS SysOps Administrator – Associate · AWS Cloud Practitioner ·
+HashiCorp Terraform Associate · HashiCorp Vault Associate
+
+**Stack** — AWS · Kubernetes / EKS · Terraform / Terragrunt · Helm · Ansible ·
+Argo CD · GitLab CI · GitHub Actions · Jenkins · Prometheus / VictoriaMetrics /
+Grafana / Thanos · Python · Bash · Linux
 
 **Featured**
 
-- [iot-protocol-advisor](https://github.com/Andrii30/iot-protocol-advisor) — recommends the optimal IoT data protocol (MQTT / CoAP / HTTPS / LoRaWAN) per device from network measurements; desktop app or headless watcher, CSV or PostgreSQL
-- [helm-charts-library](https://github.com/Andrii30/helm-charts-library) — three reusable Helm charts (web app, cronjob, stateful app) with CI and a published chart repo
-- [k8s-gitops-observability](https://github.com/Andrii30/k8s-gitops-observability) — Prometheus + Grafana + Loki via an Argo CD app-of-apps
+- [k8s-gitops-observability](https://github.com/Andrii30/k8s-gitops-observability) — Prometheus + Grafana + Loki on Kubernetes via an Argo CD app-of-apps
+- [helm-charts-library](https://github.com/Andrii30/helm-charts-library) — three reusable Helm charts with chart-testing CI and a published chart repo
+- [k8s-gitops-vault-secrets](https://github.com/Andrii30/k8s-gitops-vault-secrets) — HashiCorp Vault + Vault Secrets Operator: a secret in Vault syncs into a native Kubernetes Secret
+- [iot-protocol-advisor](https://github.com/Andrii30/iot-protocol-advisor) — PhD research: an ML pick of the optimal IoT data protocol per device from network metrics
 
 📫 andriy3026@gmail.com
