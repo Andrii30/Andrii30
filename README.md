@@ -57,4 +57,4 @@ a place to try patterns before they touch production.
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/andrii-voloshchuk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrii_Voloshchuk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-voloshchuk/)
