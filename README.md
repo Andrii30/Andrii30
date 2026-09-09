@@ -1,15 +1,14 @@
 ### Hi, I'm Andrii Voloshchuk
 
-**DevOps Engineer** — ~6 years in cloud-native infrastructure, automation and
-observability. Ternopil, Ukraine.
+**DevOps Engineer.** I keep cloud infrastructure boring — Kubernetes on AWS,
+Terraform for the infra, Helm and Argo CD for the deploys, and monitoring that
+catches problems before people notice them.
 
-**Recently** — Helm charts for AWS EKS, Terraform modules, VictoriaMetrics /
-Prometheus, Knative and GitLab CI at Mono. Before that, four years at SoftServe:
-IaC from scratch for a FedRAMP project, Jenkins pipelines, parallel multi-DC
-releases across hybrid AWS + on-prem.
+Mostly I automate the repetitive parts, build CI/CD pipelines from empty repos,
+and help teams ship without drama. Python and Bash for the glue.
 
-**On the side** — a GitOps learning portfolio: small Argo CD projects, each its
-own repo.
+On the side I run a GitOps portfolio: small Argo CD projects, each its own repo —
+a place to try patterns before they touch production.
 
 #### Certifications
 
@@ -55,10 +54,6 @@ own repo.
 - [helm-charts-library](https://github.com/Andrii30/helm-charts-library) — three reusable Helm charts with chart-testing CI and a published chart repo
 - [k8s-gitops-vault-secrets](https://github.com/Andrii30/k8s-gitops-vault-secrets) — HashiCorp Vault + Vault Secrets Operator: a Vault secret syncs into a native Kubernetes Secret
 - [iot-protocol-advisor](https://github.com/Andrii30/iot-protocol-advisor) — PhD research: an ML pick of the optimal IoT data protocol per device from network metrics
-
-#### &nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii30&layout=compact&langs_count=8&hide=html,css,smarty&card_width=340" alt="top languages" />
 
 ---
 
